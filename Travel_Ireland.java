@@ -18,7 +18,17 @@ public class Travel_Ireland
         Trips trip2 =new Trips("BusEireann","2468", "Mayo", "Derry", "31/31/2023", "11.58pm", "31/12/2023", "11.59pm", 100,60);
          Trips trip3 =new Trips("BusEireann","5678", "Limerick", "Cork", "25/12/2023", "9.00am", "25/12/2023", "8pm", 50,60);
 
-   
+
+
+        // pull request test
+        /*jlkl 
+            f
+
+            f
+            f
+            f
+            f
+            */
       
          //adding trips to bus Eireann
           be.addTrip(trip1);
